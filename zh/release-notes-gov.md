@@ -1,4 +1,4 @@
 ## Security > SIEM > Release Note
 
-### 2021. 08. 31.
+### 2021. 08. 24.
 * SIEM service release
